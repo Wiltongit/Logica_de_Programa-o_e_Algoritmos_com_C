@@ -1,0 +1,19 @@
+ls- Lista
+cd- seleciona o diretorio
+pwd- Caminho absoluto da onde estou no momento
+ls -a - Arquivos ocultos
+mkdir- cria uma pasta
+cat- mostra o que tem dentro do arquivo
+git init- torna a pasta especial para versionamento(inicia o repositorio git vazio(empty)).
+rm -rf- deleta pastas (CUIDADO)
+
+COMANDOS GIT
+git status- Te fala os status.
+git add- Escolhe o que vai para o commit
+git commit -m("name")- Inicia um commit(checkpoint)
+git config --global user.email- Seta um usuario/email para o repositorio.(Globalmente)
+git log- Historico de todos os commits
+git diff- Mostra a diferença dos arquivos
+git reset- Remove o estado do arquivo
+git checkout -b 'name'- Cria uma branch secundaria(ramificação)
+git merge- Junta branchs
