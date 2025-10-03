@@ -1,10 +1,24 @@
-# Logica_de_Programacao_e_Algoritmos_com_C
-Olá! 👋 Este é meu ponto de partida no universo do código. Documentando minha jornada de aprendizado em lógica de programação com C. Acompanhe minha evolução e sinta-se à vontade para interagir.
-_____________________________________________________________________________________________________________________________________
-🐙Durante minha trajetória inclui também o curso do TeoMeWhy sobre [Git e GitHub](https://www.youtube.com/watch?v=84FhNXNWoig&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL).  [Aqui estão alguns comandos que eu achei importante anotar](./cursogit).
+# Lógica de Programação e Algoritmos com C
 
-🗃E também fiz o curso sobre [SQL](https://www.youtube.com/watch?v=VmkJG8awKqM&list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j) do TeoMeWhy, gostei muito da didática dele!
-_____________________________________________________________________________________________________________________________________
-👨‍💻Meus exercicios separados em partes!
-- [Parte 1 do Curso](./parte-1-curso)
-- [Parte 2 do Curso](./parte-2-curso)
+Olá! 👋 Este é meu ponto de partida no universo do código. Estou documentando minha jornada de aprendizado em lógica de programação com C.
+
+Acompanhe minha constante evolução para um dia me tornar um bom dev!
+
+## 📚 Cursos Complementares
+
+Durante minha trajetória, realizei alguns cursos que foram muito importantes para minha base:
+
+- **Git e GitHub** - Ministrado por TeoMeWhy.
+  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/watch?v=84FNXcXMCig&list=PLV1kVRKOYFojKMdrassiJNkkx5MW6tcSL)
+  - [Veja minhas anotações sobre os comandos aqui](./cursogit)
+
+- **SQL** - Também ministrado pelo TeoMeWhy, com uma ótima didática.
+  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/watch?v=VmkJG8awgYw&list=PLV1kVRKOYFRo65S1O00jptVQfQOdYMi3j)
+
+
+## 🚀 Exercícios Práticos
+
+Meus exercícios do curso, separados em partes para facilitar a navegação:
+
+- **[Parte 1 do Curso](./parte-1-curso)**
+- **[Parte 2 do Curso](./parte-2-curso)**
