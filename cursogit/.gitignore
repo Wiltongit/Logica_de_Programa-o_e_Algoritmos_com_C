@@ -1,2 +1,10 @@
-*.exe
+# Ignora o executável gerado
+*.exe 
 
+# Ignora arquivos de debug/objetos
+*.o
+
+# Ignora as configurações específicas do VS Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
