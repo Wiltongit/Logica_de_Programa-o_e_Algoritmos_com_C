@@ -9,11 +9,11 @@ Acompanhe minha constante evolução para um dia me tornar um bom dev!
 Durante minha trajetória, realizei alguns cursos que foram muito importantes para minha base:
 
 - **Git e GitHub** - Ministrado por TeoMeWhy.
-  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/watch?v=84FNXcXMCig&list=PLV1kVRKOYFojKMdrassiJNkkx5MW6tcSL)
+  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/@teomewhy)
   - [Veja minhas anotações sobre os comandos aqui](./cursogit)
 
 - **SQL** - Também ministrado pelo TeoMeWhy, com uma ótima didática.
-  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/watch?v=VmkJG8awgYw&list=PLV1kVRKOYFRo65S1O00jptVQfQOdYMi3j)
+  - [Clique aqui para ver o curso no YouTube](https://www.youtube.com/@teomewhy)
 
 
 ## 🚀 Exercícios Práticos
@@ -22,3 +22,4 @@ Meus exercícios do curso, separados em partes para facilitar a navegação:
 
 - **[Parte 1 do Curso](./parte-1-curso)**
 - **[Parte 2 do Curso](./parte-2-curso)**
+- **[Parte 3 do Curso](./parte-3-curso)**
