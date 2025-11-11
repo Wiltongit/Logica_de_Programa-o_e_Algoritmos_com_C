@@ -23,3 +23,4 @@ Meus exercícios do curso, separados em partes para facilitar a navegação:
 - **[Parte 1 do Curso](./parte-1-curso)**
 - **[Parte 2 do Curso](./parte-2-curso)**
 - **[Parte 3 do Curso](./parte-3-curso)**
+- **[Parte 4 do Curso](./parte-4-curso)**
