@@ -3,7 +3,8 @@
         "stdio.h": "c",
         "localeH.C": "cpp",
         "string.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "inputMatriz.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
